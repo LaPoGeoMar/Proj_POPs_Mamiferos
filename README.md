@@ -1,2 +1,2 @@
 # Proj_POPs_Mamiferos
-Artigo de revisão sobre a ocorrência de PCBs e praguicidas clorados em mamíferos marinhos da costa brasileira. 
+Review article about PCBs and chlorinted pesticides in marine mammls from brazilian waters. 
