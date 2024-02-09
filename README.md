@@ -1,2 +1,2 @@
 # Proj_POPs_Mamiferos
-POPs em mamíferos marinhos da costa do Brasil
+Artigo de revisão sobre a ocorrência de PCBs e praguicidas clorados em mamíferos marinhos da costa brasileira. 
